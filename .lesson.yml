@@ -1,0 +1,7 @@
+---
+title: "React Class Syntax"
+type: "article"
+behaviors:
+  - react_on_node
+description: "Use classic class syntax in a react app"
+tags: "react"
