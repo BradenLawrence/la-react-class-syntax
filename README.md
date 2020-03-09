@@ -1,0 +1,1 @@
+# la-react-class-syntax
